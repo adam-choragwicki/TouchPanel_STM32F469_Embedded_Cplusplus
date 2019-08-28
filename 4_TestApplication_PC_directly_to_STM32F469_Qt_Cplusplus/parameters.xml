@@ -1,0 +1,179 @@
+<Module1>
+
+<Module1InitParameterNames>
+<Module1InitParameter1Name>fs [kHz]</Module1InitParameter1Name>
+<Module1InitParameter2Name>Uref [V]</Module1InitParameter2Name>
+<Module1InitParameter3Name>Iref [A]</Module1InitParameter3Name>
+<Module1InitParameter4Name>Umax [V]</Module1InitParameter4Name>
+<Module1InitParameter5Name>Imax [A]</Module1InitParameter5Name>
+</Module1InitParameterNames>
+
+<Module1InitParameterValues>
+<Module1InitParameter1Value>100</Module1InitParameter1Value>
+<Module1InitParameter2Value>48</Module1InitParameter2Value>
+<Module1InitParameter3Value>16</Module1InitParameter3Value>
+<Module1InitParameter4Value>60</Module1InitParameter4Value>
+<Module1InitParameter5Value>25</Module1InitParameter5Value>
+</Module1InitParameterValues>
+
+<Module1ParameterNames>
+<Module1Parameter1Name>Udc1 [V]</Module1Parameter1Name>
+<Module1Parameter2Name>Udc2 [V]</Module1Parameter2Name>
+<Module1Parameter3Name>Idc2 [A]</Module1Parameter3Name>
+<Module1Parameter4Name>Psi</Module1Parameter4Name>
+</Module1ParameterNames>
+
+<Module1ParameterValues>
+<Module1Parameter1Value>300</Module1Parameter1Value>
+<Module1Parameter2Value>48</Module1Parameter2Value>
+<Module1Parameter3Value>6</Module1Parameter3Value>
+<Module1Parameter4Value>25</Module1Parameter4Value>
+</Module1ParameterValues>
+
+<Module1SettableParameterNames>
+<Module1SettableParameter1Name>Udc1 [V]</Module1SettableParameter1Name>
+<Module1SettableParameter2Name>Udc2 [V]</Module1SettableParameter2Name>
+<Module1SettableParameter3Name>Uac1 [V]</Module1SettableParameter3Name>
+<Module1SettableParameter4Name>Uac2 [V]</Module1SettableParameter4Name>
+<Module1SettableParameter5Name>Iac1 [A]</Module1SettableParameter5Name>
+<Module1SettableParameter6Name>Iac2 [A]</Module1SettableParameter6Name>
+<Module1SettableParameter7Name>fac1 [Hz]</Module1SettableParameter7Name>
+<Module1SettableParameter8Name>fac2 [Hz]</Module1SettableParameter8Name>
+<Module1SettableParameter9Name>Pac1 [W]</Module1SettableParameter9Name>
+<Module1SettableParameter10Name>Pac2 [W]</Module1SettableParameter10Name>
+</Module1SettableParameterNames>
+
+<Module1SettableParameterValues>
+<Module1SettableParameter1Value>30</Module1SettableParameter1Value>
+<Module1SettableParameter2Value>60</Module1SettableParameter2Value>
+<Module1SettableParameter3Value>20</Module1SettableParameter3Value>
+<Module1SettableParameter4Value>50</Module1SettableParameter4Value>
+<Module1SettableParameter5Value>10</Module1SettableParameter5Value>
+<Module1SettableParameter6Value>30</Module1SettableParameter6Value>
+<Module1SettableParameter7Value>60</Module1SettableParameter7Value>
+<Module1SettableParameter8Value>80</Module1SettableParameter8Value>
+<Module1SettableParameter9Value>120</Module1SettableParameter9Value>
+<Module1SettableParameter10Value>150</Module1SettableParameter10Value>
+</Module1SettableParameterValues>
+
+</Module1>
+
+<Module2>
+
+<Module2InitParameterNames>
+<Module2InitParameter1Name>fs [kHz]</Module2InitParameter1Name>
+<Module2InitParameter2Name>Uref [V]</Module2InitParameter2Name>
+<Module2InitParameter3Name>Iref [A]</Module2InitParameter3Name>
+<Module2InitParameter4Name>Umax [V]</Module2InitParameter4Name>
+<Module2InitParameter5Name>Imax [A]</Module2InitParameter5Name>
+</Module2InitParameterNames>
+
+<Module2InitParameterValues>
+<Module2InitParameter1Value>100</Module2InitParameter1Value>
+<Module2InitParameter2Value>48</Module2InitParameter2Value>
+<Module2InitParameter3Value>16</Module2InitParameter3Value>
+<Module2InitParameter4Value>60</Module2InitParameter4Value>
+<Module2InitParameter5Value>25</Module2InitParameter5Value>
+</Module2InitParameterValues>
+
+<Module2ParameterNames>
+<Module2Parameter1Name>Udc1 [V]</Module2Parameter1Name>
+<Module2Parameter2Name>Udc2 [V]</Module2Parameter2Name>
+<Module2Parameter3Name>Idc2 [A]</Module2Parameter3Name>
+<Module2Parameter4Name>Psi</Module2Parameter4Name>
+</Module2ParameterNames>
+
+<Module2ParameterValues>
+<Module2Parameter1Value>300</Module2Parameter1Value>
+<Module2Parameter2Value>48</Module2Parameter2Value>
+<Module2Parameter3Value>6</Module2Parameter3Value>
+<Module2Parameter4Value>25</Module2Parameter4Value>
+</Module2ParameterValues>
+
+<Module2SettableParameterNames>
+<Module2SettableParameter1Name>Udc1 [V]</Module2SettableParameter1Name>
+<Module2SettableParameter2Name>Udc2 [V]</Module2SettableParameter2Name>
+<Module2SettableParameter3Name>Uac1 [V]</Module2SettableParameter3Name>
+<Module2SettableParameter4Name>Uac2 [V]</Module2SettableParameter4Name>
+<Module2SettableParameter5Name>Iac1 [A]</Module2SettableParameter5Name>
+<Module2SettableParameter6Name>Iac2 [A]</Module2SettableParameter6Name>
+<Module2SettableParameter7Name>fac1 [Hz]</Module2SettableParameter7Name>
+<Module2SettableParameter8Name>fac2 [Hz]</Module2SettableParameter8Name>
+<Module2SettableParameter9Name>Pac1 [W]</Module2SettableParameter9Name>
+<Module2SettableParameter10Name>Pac2 [W]</Module2SettableParameter10Name>
+</Module2SettableParameterNames>
+
+<Module2SettableParameterValues>
+<Module2SettableParameter1Value>30</Module2SettableParameter1Value>
+<Module2SettableParameter2Value>60</Module2SettableParameter2Value>
+<Module2SettableParameter3Value>20</Module2SettableParameter3Value>
+<Module2SettableParameter4Value>50</Module2SettableParameter4Value>
+<Module2SettableParameter5Value>10</Module2SettableParameter5Value>
+<Module2SettableParameter6Value>30</Module2SettableParameter6Value>
+<Module2SettableParameter7Value>60</Module2SettableParameter7Value>
+<Module2SettableParameter8Value>80</Module2SettableParameter8Value>
+<Module2SettableParameter9Value>120</Module2SettableParameter9Value>
+<Module2SettableParameter10Value>150</Module2SettableParameter10Value>
+</Module2SettableParameterValues>
+
+</Module2>
+
+<Module3>
+
+<Module3InitParameterNames>
+<Module3InitParameter1Name>fs [kHz]</Module3InitParameter1Name>
+<Module3InitParameter2Name>Uref [V]</Module3InitParameter2Name>
+<Module3InitParameter3Name>Iref [A]</Module3InitParameter3Name>
+<Module3InitParameter4Name>Umax [V]</Module3InitParameter4Name>
+<Module3InitParameter5Name>Imax [A]</Module3InitParameter5Name>
+</Module3InitParameterNames>
+
+<Module3InitParameterValues>
+<Module3InitParameter1Value>100</Module3InitParameter1Value>
+<Module3InitParameter2Value>48</Module3InitParameter2Value>
+<Module3InitParameter3Value>16</Module3InitParameter3Value>
+<Module3InitParameter4Value>60</Module3InitParameter4Value>
+<Module3InitParameter5Value>25</Module3InitParameter5Value>
+</Module3InitParameterValues>
+
+<Module3ParameterNames>
+<Module3Parameter1Name>Udc1 [V]</Module3Parameter1Name>
+<Module3Parameter2Name>Udc2 [V]</Module3Parameter2Name>
+<Module3Parameter3Name>Idc2 [A]</Module3Parameter3Name>
+<Module3Parameter4Name>Psi</Module3Parameter4Name>
+</Module3ParameterNames>
+
+<Module3ParameterValues>
+<Module3Parameter1Value>300</Module3Parameter1Value>
+<Module3Parameter2Value>48</Module3Parameter2Value>
+<Module3Parameter3Value>6</Module3Parameter3Value>
+<Module3Parameter4Value>25</Module3Parameter4Value>
+</Module3ParameterValues>
+
+<Module3SettableParameterNames>
+<Module3SettableParameter1Name>Udc1 [V]</Module3SettableParameter1Name>
+<Module3SettableParameter2Name>Udc2 [V]</Module3SettableParameter2Name>
+<Module3SettableParameter3Name>Uac1 [V]</Module3SettableParameter3Name>
+<Module3SettableParameter4Name>Uac2 [V]</Module3SettableParameter4Name>
+<Module3SettableParameter5Name>Iac1 [A]</Module3SettableParameter5Name>
+<Module3SettableParameter6Name>Iac2 [A]</Module3SettableParameter6Name>
+<Module3SettableParameter7Name>fac1 [Hz]</Module3SettableParameter7Name>
+<Module3SettableParameter8Name>fac2 [Hz]</Module3SettableParameter8Name>
+<Module3SettableParameter9Name>Pac1 [W]</Module3SettableParameter9Name>
+<Module3SettableParameter10Name>Pac2 [W]</Module3SettableParameter10Name>
+</Module3SettableParameterNames>
+
+<Module3SettableParameterValues>
+<Module3SettableParameter1Value>30</Module3SettableParameter1Value>
+<Module3SettableParameter2Value>60</Module3SettableParameter2Value>
+<Module3SettableParameter3Value>20</Module3SettableParameter3Value>
+<Module3SettableParameter4Value>50</Module3SettableParameter4Value>
+<Module3SettableParameter5Value>10</Module3SettableParameter5Value>
+<Module3SettableParameter6Value>30</Module3SettableParameter6Value>
+<Module3SettableParameter7Value>60</Module3SettableParameter7Value>
+<Module3SettableParameter8Value>80</Module3SettableParameter8Value>
+<Module3SettableParameter9Value>120</Module3SettableParameter9Value>
+<Module3SettableParameter10Value>150</Module3SettableParameter10Value>
+</Module3SettableParameterValues>
+
+</Module3>
