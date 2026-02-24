@@ -1,3 +1,6 @@
+> ⚠️ **Archived (portfolio / historical)**  
+> This repository is preserved for portfolio and historical reasons. It is no longer actively maintained or improved.
+
 # STM32F469 Touch panel for power converter driver
 
 This repository contains software of 4 consolidated parts of my M.Sc. thesis on the power converter controller implemented using the **STM32F469 Discovery** board. Contents of directories are briefly described below. For details please see README.md of each subproject.
